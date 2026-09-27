@@ -1,0 +1,14 @@
+# Simulation output
+*.vcd
+*.wlf
+*.log
+*.jou
+*.pb
+work/
+transcript
+vsim.wlf
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
